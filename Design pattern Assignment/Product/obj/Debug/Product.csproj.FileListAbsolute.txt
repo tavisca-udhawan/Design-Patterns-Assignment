@@ -1,0 +1,7 @@
+c:\users\udhawan\source\repos\FactoryDesign\Product\obj\Debug\Product.csprojResolveAssemblyReference.cache
+c:\users\udhawan\source\repos\FactoryDesign\Product\obj\Debug\Product.csproj.CoreCompileInputs.cache
+c:\users\udhawan\source\repos\FactoryDesign\Product\bin\Debug\Product.exe.config
+c:\users\udhawan\source\repos\FactoryDesign\Product\bin\Debug\Product.exe
+c:\users\udhawan\source\repos\FactoryDesign\Product\bin\Debug\Product.pdb
+c:\users\udhawan\source\repos\FactoryDesign\Product\obj\Debug\Product.exe
+c:\users\udhawan\source\repos\FactoryDesign\Product\obj\Debug\Product.pdb
